@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Nosiume"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></summary>
+<summary><a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></summary>
 Nosiume#4661
 </details>
